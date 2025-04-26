@@ -15,7 +15,7 @@ The **Job Portal** is a full-stack web application designed to connect job seeke
   - [Pages](#pages)
   - [Components](#components)
 - [Backend Documentation](#backend-documentation)
-
+- [Deployment](#deployment)
 ---
 
 ## Features
@@ -211,5 +211,13 @@ The backend is built using **Node.js** and **Express.js**. It includes the follo
 
 ### Error Tracking:
 - **Sentry** is used for error tracking and debugging.
+
+---
+
+## Deployment
+
+The application is deployed on **Vercel**. You can access it here:
+
+[Job Portal Web Application](https://job-portal-client-jet.vercel.app/)
 
 ---
